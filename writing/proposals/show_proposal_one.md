@@ -85,10 +85,7 @@ TODO: Write at least two sentences that explain the call to action for this epis
 ## 🦜 References
 
 TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal. If you
-used any type of artificial intelligence (AI) writing assistant tools, please explain
-clearly which tools you used, how you used them, and what content they helped
-you to brainstorm, write, or revise.
+conference proceedings that you studied when preparing this proposal.
 
 TODO: Make sure that you use correctly formatted Markdown links to the
 references that you consulted when writing this show proposal.
@@ -96,3 +93,10 @@ references that you consulted when writing this show proposal.
 - **Reference One**:
 - **Reference Two**:
 - **Reference Three**:
+
+TODO: If you used any type of artificial intelligence (AI) writing assistant
+tools, please add an additional paragraph that explains clearly specific tools
+you used, how you used them, and what content they helped you to brainstorm,
+write, or revise. While the use of AI writing assistants is permitted as a part
+of the Exposition Engineering course, it is important for you to clearly cite
+all of the tools that you used to create the content in this proposal.
